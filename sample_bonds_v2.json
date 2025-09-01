@@ -1,0 +1,162 @@
+[
+  {
+    "bond_name":"Alpha Infra",
+    "face_value":1000,
+    "coupon_rate":5.05,
+    "rating":"AAA",
+    "maturity_years":10,
+    "purchase_amount":10000
+  },
+  {
+    "bond_name":"Beta Power",
+    "face_value":1000,
+    "coupon_rate":9.45,
+    "rating":"BBB",
+    "maturity_years":1,
+    "purchase_amount":10000
+  },
+  {
+    "bond_name":"Gamma FinCorp",
+    "face_value":1000,
+    "coupon_rate":7.44,
+    "rating":"AAA",
+    "maturity_years":1,
+    "purchase_amount":10000
+  },
+  {
+    "bond_name":"Delta Housing",
+    "face_value":1000,
+    "coupon_rate":6.8,
+    "rating":"AA",
+    "maturity_years":1,
+    "purchase_amount":10000
+  },
+  {
+    "bond_name":"Epsilon Bank",
+    "face_value":1000,
+    "coupon_rate":5.36,
+    "rating":"CCC",
+    "maturity_years":5,
+    "purchase_amount":10000
+  },
+  {
+    "bond_name":"Zeta Oil",
+    "face_value":1000,
+    "coupon_rate":10.4,
+    "rating":"Sovereign",
+    "maturity_years":1,
+    "purchase_amount":10000
+  },
+  {
+    "bond_name":"Theta Steel",
+    "face_value":1000,
+    "coupon_rate":5.69,
+    "rating":"AAA",
+    "maturity_years":7,
+    "purchase_amount":10000
+  },
+  {
+    "bond_name":"Lambda Tech",
+    "face_value":1000,
+    "coupon_rate":7.26,
+    "rating":"B",
+    "maturity_years":7,
+    "purchase_amount":10000
+  },
+  {
+    "bond_name":"Sigma Motors",
+    "face_value":1000,
+    "coupon_rate":6.57,
+    "rating":"B",
+    "maturity_years":10,
+    "purchase_amount":10000
+  },
+  {
+    "bond_name":"Omega Retail",
+    "face_value":1000,
+    "coupon_rate":10.23,
+    "rating":"A",
+    "maturity_years":7,
+    "purchase_amount":10000
+  },
+  {
+    "bond_name":"Kappa Cement",
+    "face_value":1000,
+    "coupon_rate":10.85,
+    "rating":"AAA",
+    "maturity_years":5,
+    "purchase_amount":10000
+  },
+  {
+    "bond_name":"Rho Pharma",
+    "face_value":1000,
+    "coupon_rate":8.13,
+    "rating":"Sovereign",
+    "maturity_years":5,
+    "purchase_amount":10000
+  },
+  {
+    "bond_name":"Pi Infra",
+    "face_value":1000,
+    "coupon_rate":9.25,
+    "rating":"B",
+    "maturity_years":5,
+    "purchase_amount":10000
+  },
+  {
+    "bond_name":"Nu Energy",
+    "face_value":1000,
+    "coupon_rate":10.76,
+    "rating":"AAA",
+    "maturity_years":5,
+    "purchase_amount":10000
+  },
+  {
+    "bond_name":"Xi Finance",
+    "face_value":1000,
+    "coupon_rate":11.62,
+    "rating":"B",
+    "maturity_years":3,
+    "purchase_amount":10000
+  },
+  {
+    "bond_name":"Tau Telecom",
+    "face_value":1000,
+    "coupon_rate":8.35,
+    "rating":"AA",
+    "maturity_years":5,
+    "purchase_amount":10000
+  },
+  {
+    "bond_name":"Upsilon Agro",
+    "face_value":1000,
+    "coupon_rate":10.9,
+    "rating":"AA",
+    "maturity_years":1,
+    "purchase_amount":10000
+  },
+  {
+    "bond_name":"Phi Realty",
+    "face_value":1000,
+    "coupon_rate":12.19,
+    "rating":"CCC",
+    "maturity_years":10,
+    "purchase_amount":10000
+  },
+  {
+    "bond_name":"Chi Infra",
+    "face_value":1000,
+    "coupon_rate":6.31,
+    "rating":"AAA",
+    "maturity_years":10,
+    "purchase_amount":10000
+  },
+  {
+    "bond_name":"Psi Logistics",
+    "face_value":1000,
+    "coupon_rate":6.44,
+    "rating":"Sovereign",
+    "maturity_years":1,
+    "purchase_amount":10000
+  }
+]
